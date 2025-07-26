@@ -81,6 +81,38 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+        "feisuzy": {
+      "api": "https://www.feisuzy.com/api.php/provide/vod",
+      "name": "飞速资源站"
+    },
+        "jinyingzy": {
+      "api": "http://jinyingzy.com/provide/vod",
+      "name": "金鹰资源站"
+    },
+        "lyzy": {
+      "api": "https://api.apilyzy.com/api.php/Seacms/vod",
+      "name": "老鸭资源"
+    },
+        "taichu": {
+      "api": "https://www.tcmove.com/api.php/provide/vod",
+      "name": "太初资源站"
+    },
+        "xxb": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "x细胞"
+    },
+        "gszy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源站"
+    },
+        "yimeng": {
+      "api": "http://anltv.cn/api.php/provide/vod",
+      "name": "忆梦资源站"
+    },
+        "jiali": {
+      "api": "https://jialiapi.com/api.php/provide/vod",
+      "name": "佳丽资源站"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
